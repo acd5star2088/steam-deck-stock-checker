@@ -31,7 +31,6 @@ PACKAGES = {
     # ── Discontinued (will not restock, tracked for completeness) ────────
     595603:  {"name": "Steam Deck LCD 64GB",                  "type": "Discontinued"},
     595604:  {"name": "Steam Deck LCD 256GB",                 "type": "Discontinued"},
-    595605:  {"name": "Steam Deck LCD 512GB",                 "type": "Discontinued"},
 
     # ── Valve Certified Refurbished ──────────────────────────────────────
     903905:  {"name": "Steam Deck LCD 64GB (Refurbished)",    "type": "Refurbished"},
